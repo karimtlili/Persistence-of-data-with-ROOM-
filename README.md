@@ -28,3 +28,4 @@ Getting Started
 
 1. Download and run the app.
 # Persistence-of-data-with-ROOM-
+# Inventory
